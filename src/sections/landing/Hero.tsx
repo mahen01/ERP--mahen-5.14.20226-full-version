@@ -114,7 +114,7 @@ export default function HeroPage() {
                         lineHeight: { xs: 1.4, md: 1.4 }
                       }}
                     >
-                      Techromz ERP is the one of the finest admin dashboard template out there in market. Used by over 6.5K+ Customers
+                      Techromz ERP is the one of the finest admin dashboard. Used by over 6.5K+ Customers
                       worldwide.
                     </Typography>
                   </motion.div>
@@ -132,7 +132,7 @@ export default function HeroPage() {
                   }}
                 >
                   <Grid container spacing={2} sx={{ justifyContent: 'center' }}>
-                    <Grid>
+                    {/* <Grid>
                       <AnimateButton>
                         <Button
                           component={RouterLink}
@@ -144,7 +144,7 @@ export default function HeroPage() {
                           Explore ERP
                         </Button>
                       </AnimateButton>
-                    </Grid>
+                    </Grid> */}
                     <Grid>
                       <AnimateButton>
                         <Button
@@ -227,7 +227,7 @@ export default function HeroPage() {
                       delay: 0.2
                     }}
                   >
-                    <Typography
+                    {/* <Typography
                       variant="h6"
                       sx={{
                         fontSize: { xs: '0.875rem', md: '1rem' },
@@ -236,7 +236,7 @@ export default function HeroPage() {
                       }}
                     >
                       - Click Below Icon to Preview Each Tech Demos -
-                    </Typography>
+                    </Typography> */}
                   </motion.div>
                 </Grid>
               </Grid>

@@ -19,7 +19,7 @@ export const techData = [
   {
     label: 'Tailwind',
     image: techTailwind,
-    url: 'https://ableproadmin.com/tailwind/dashboard/index.html',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Tailwind',
     description:
@@ -29,7 +29,7 @@ export const techData = [
   {
     label: 'Bootstrap',
     image: techBootstrap,
-    url: 'https://ableproadmin.com/dashboard/index.html',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Bootstrap',
     description:
@@ -49,7 +49,7 @@ export const techData = [
   {
     label: 'Angular',
     image: techAngular,
-    url: 'https://ableproadmin.com/angular/default/dashboard/default',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Angular',
     description:
@@ -59,7 +59,7 @@ export const techData = [
   {
     label: 'CodeIgniter',
     image: techCodeigniter,
-    url: 'https://ableproadmin.com/codeigniter/default/public/dashboard-default',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'CodeIgniter',
     description:
@@ -69,7 +69,7 @@ export const techData = [
   {
     label: 'ASP.net',
     image: techNet,
-    url: 'https://able-pro.azurewebsites.net/Dashboard/Index',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'ASP.net',
     description:
@@ -79,7 +79,7 @@ export const techData = [
   {
     label: 'Next js',
     image: techNextJS,
-    url: 'https://able-pro-material-next-ts-navy.vercel.app/dashboard/default',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Next js',
     description:
@@ -89,7 +89,7 @@ export const techData = [
   {
     label: 'Vue',
     image: techVue,
-    url: 'https://ableproadmin.com/vue/dashboard/default',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Vue',
     description:
@@ -99,7 +99,7 @@ export const techData = [
   {
     label: 'Vuetify Laravel',
     image: techVuelaravel,
-    url: 'https://ableproadmin.com/vue-laravel/dashboard/default',
+    url: '#',
     target: '_blank',
     tooltipTitle: 'Vuetify Laravel',
     description:
@@ -109,7 +109,7 @@ export const techData = [
   {
     label: 'Laravel Bootstrap',
     image: techLaravelBootstrap,
-    url: '#!',
+    url: '#',
     target: '_self',
     tooltipTitle: 'Live Preview Not Available',
     description:
@@ -119,7 +119,7 @@ export const techData = [
   {
     label: 'Django',
     image: techDjango,
-    url: '#!',
+    url: '#',
     target: '_self',
     tooltipTitle: 'Live Preview Not Available',
     description:
@@ -129,7 +129,7 @@ export const techData = [
   {
     label: 'Node JS',
     image: techNodeJs,
-    url: '#!',
+    url: '#',
     target: '_self',
     tooltipTitle: 'Live Preview Not Available',
     description:
@@ -139,7 +139,7 @@ export const techData = [
   {
     label: 'Flask',
     image: techFlask,
-    url: '#!',
+    url: '#',
     target: '_self',
     tooltipTitle: 'Live Preview Not Available',
     description:
@@ -149,7 +149,7 @@ export const techData = [
   {
     label: 'SvelteKit',
     image: techSvelteKit,
-    url: '#!',
+    url: '#',
     target: '_self',
     tooltipTitle: 'Live Preview Not Available',
     description:

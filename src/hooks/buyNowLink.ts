@@ -32,7 +32,7 @@ export function useBuyNowLink() {
         buyNowLink = 'https://1.envato.market/zNkqj6';
         isPhoenix = true;
       } else {
-        buyNowLink = 'https://codedthemes.com/item/able-pro-dashboard-templates';
+        buyNowLink = 'https://techromz.com/contact-us-2/'; //change link techromz contzt us page
         isPhoenix = false;
       }
     }

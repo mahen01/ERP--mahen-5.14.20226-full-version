@@ -347,7 +347,7 @@ export default function Header({
           <AnimateButton>
             <Button
               component={Link}
-              href="https://techromz.com/"
+              href="https://techromz.com/contact-us-2/"
               target="_blank"
               disableElevation
               startIcon={<ExportSquare />}

@@ -39,7 +39,7 @@ export default function SubscribePage() {
             <FadeInWhenVisible>
               <Grid container spacing={2} sx={{ justifyContent: { md: 'end', xs: 'center' }, alignItems: 'center' }}>
                 <Grid>
-                  <Button variant="contained" color="primary" size="large" component={Link} href="https://techromz.com/" target="_blank">
+                  <Button variant="contained" color="primary" size="large" component={Link} href="https://techromz.com/contact-us-2/" target="_blank">
                     Get Support
                   </Button>
                 </Grid>
