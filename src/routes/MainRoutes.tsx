@@ -755,6 +755,14 @@ const MainRoutes = {
         {
           path: 'faqs',
           element: <FaqPage />
+        },
+        {
+          path: 'privacyPolicy',
+          element: <PrivacyPolicy />
+        },
+        {
+          path: 'licensesTerms',
+          element: <LicenseTerms />
         }
       ]
     },
